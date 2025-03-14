@@ -1,0 +1,1122 @@
+strain	data source	year	month	region	location	continent	clade	group	MLVA	date	23SRna	Macrolide Susceptibility	time range	completeness	ST
+ERR6807351_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807352_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807353_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807354_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807355_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807356_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807357_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807358_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807359_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807360_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807361_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807362_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807363_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807364_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807365_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807366_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807367_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807368_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR6807369_PE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+ERR974262_PE	public	1986	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	1986	NA	S	1944-2009	contigs	1
+GCA_000027345	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	complete	1
+GCA_000331085	public	NA	NA	United States	United States	Americas	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	complete	1
+GCA_001296615	public	2006	NA	Tunisia	Tunisia	Africa	T1-1	T1-1	4-5-7-2	2006	NA	S	1944-2009	contigs	1
+GCA_001296855	public	2008	NA	Tunisia	Tunisia	Africa	T1-1	T1-1	4-5-7-2	2008	NA	S	1944-2009	contigs	1
+GCA_002090215	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	A2063G	R	2016-2019	complete	1
+GCA_002090235	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	NA	S	2016-2019	complete	1
+GCA_002090275	public	2015	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2015	A2063G	R	2010-2015	complete	1
+GCA_002090295	public	2015	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2015	A2063G	R	2010-2015	complete	1
+GCA_002090315	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	A2063G	R	2016-2019	complete	1
+GCA_002095995	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	A2063G	R	2016-2019	complete	1
+GCA_002096015	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	A2063G	R	2016-2019	complete	1
+GCA_002096035	public	2016	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	2016	A2063G	R	2016-2019	complete	1
+GCA_002128025	public	1965	NA	United States	United States	Americas	T1-1	T1-1	4-5-7-2	1965	NA	S	1944-2009	complete	1
+GCA_002147855	public	1968	NA	United States	United States	Americas	T1-1	T1-1	4-5-7-2	1968	NA	S	1944-2009	complete	1
+GCA_002563495	public	1991	NA	United States	United States	Americas	T1-1	T1-1	4-5-7-2	1991	NA	S	1944-2009	contigs	1
+GCA_009947205	public	2010	NA	South Korea	South Korea	Asia	T1-1	T1-1	4-5-7-2	2010	NA	S	2010-2015	complete	1
+GCA_009948395	public	2010	NA	South Korea	South Korea	Asia	T1-1	T1-1	4-5-7-2	2010	NA	S	2010-2015	complete	1
+SRR24210460_PE	public	NA	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+SRR24210461_PE	public	NA	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+SRR24210462_PE	public	NA	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	NA	A2063G	R	NA	contigs	1
+SRR24210463_PE	public	NA	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	NA	A2064C	R	NA	contigs	1
+SRR24210464_PE	public	NA	NA	China	China-Beijing	Asia	T1-1	T1-1	4-5-7-2	NA	A2063G	R	NA	contigs	1
+SRR24210465_PE	public	NA	NA	United States	United States	Americas	T1-1	T1-1	4-5-7-2	NA	NA	S	NA	contigs	1
+SRR4023032_SE	public	NA	NA	NA	NA	NA	T1-1	T1-1	4-?-?-2	NA	NA	S	NA	contigs	1
+001_17R859	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+003_17R1150	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+004_17R1355	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+005_17R1444	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+009_18M1592	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+011_18M1634	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+012_18M1643	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	-
+013_18M1671	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+014_18M1684	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+015_18M1688	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+016_18M1700	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+017_18M1722	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+018_18M1729	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+020_18M1786	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+021_18M1880	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+022_18M1916	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+023_18M1952	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+024_18M2169	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+026_18M2301	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+030_19M257	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+032_19M506	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+034_19M510	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+036_19M569	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+037_19M570	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+038_19M583	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+039_19M645	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+039671	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	NA
+040_19M758	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+041_19M937	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+045_19M1094	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+046_19M1102	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+049_19M1120	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+050_19M1125	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+051_19M1127	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+053_19M1135	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+054_19M1140	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+055_19M1142	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+056_19M1159	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+058_19M1233	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+059_19M1236	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+060_19M1240	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+062_19M1261	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2019	A2063G	R	2016-2019	contigs	3
+063_19R1067	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+064_19R1076	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+065_19R1106	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+067_19M1325	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+069_19M1349	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+070_19R1205	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+076_19M1365	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+077_19M1368	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+080_19R1325	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+081_19R1333	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+082_19R1336	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+084_19R1349	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+085_19R1356	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+086_19R1358	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+090_19R1377	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	-
+092_19R1384	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+093_19R1386	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+094_19R1399	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+095_19M1404	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+097_19R1407	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+098_19R1408	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+099_19M1416	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+100_19M1423	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+100_R277	self	2023	6	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.458	A2063G	R	2020-2024	contigs	3
+101_19R1470	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+101_R424	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.625	A2063G	R	2020-2024	contigs	3
+102_R528	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+103_22R077	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+103_R531	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+104_22R079	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+104_R560	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+105_22M259	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+105_R571	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	-
+106_R584	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	-
+107_22M336	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+107_M414	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+108_22M340	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+109_22M347	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+109_M574	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	5-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+111_22R487	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2022	A2063G	R	2020-2024	contigs	3
+111_D16450	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+112_22R460	self	2022	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2022	A2063G	R	2020-2024	contigs	3
+121_M1796	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+122_M1024	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+124_M1153	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+128_R1149	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+133_R1347	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+134_17M272	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+135_16R074	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+136_16R055	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+137_16R129	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+138_16M-C025	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	-
+139_16M266	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+140_16R062	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+141_16M195	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+142_16M124	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+143_16R108	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+144_16R059	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+145_16R065	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+146_16M187	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+147_16M146	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+148_16M286	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+149_16M186	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+150_16M211	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+151_16M244	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+152_16M193	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+153_17M251	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+154_17M224	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+155_17M050	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+156_17R191	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+157_17M289	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-?	2017	A2063G	R	2016-2019	contigs	3
+158_17M438	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+159_17M292	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	-
+160_17M323	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+161_17R006	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+162_17M187	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+163_17M206	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+164_17M227	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+165_17R138	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+166_17R098	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+167_17M403	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+168_17M288	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+169_17M238	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+170_17M037	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+171_17R115	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+172_17R127	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+173_17M260	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+174_17M110	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+175_17R125	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	-
+176_17M439	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+177_17M135	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+178_17R016	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+179_17R218	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+17M1141	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+17M486	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+17M512	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+17R313M472	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+180_17M212	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+181_17R239	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+182_17M217	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+183_17M267	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+184_17M295	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+185_17R128	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+186_17M391	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+187_17R198	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	-
+188_17M073	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+189_17R113	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+18M1849	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+18R1565	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+190_19M1169	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+192_21R801	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+193_21R822	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+194_21R642	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+195_17M928	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+198_21R761	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+199_17M878	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+200_21R636	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+202_17M955	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+2023004	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023005	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023008	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	complete	3
+2023010	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	complete	3
+2023012	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023014	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	complete	3
+2023015	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	complete	3
+2023016	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023017	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023018	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023019	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023020	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023021	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023024	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023026	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023029	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023037	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023039	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023042	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	complete	3
+2023044	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023045	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023046	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023047	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023050	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023059	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023062	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023063	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023071	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023075	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023079	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023081	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023082	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023083	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023088	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023089	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023091	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023092	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023102	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023114	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023115	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023120	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023124	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023126	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023137	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023139	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023144	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023145	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023150	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023167	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023169	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023175	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023176	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023178	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023183	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023186	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023187	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023190	self	2023	11	China	China-Guangdong	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023196	self	2023	11	China	China-Guangdong	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023207	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023214	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023216	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023222	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023227	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023229	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023233	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023236	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023244	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023248	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023257	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023275	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023286	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023291	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023296	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	!-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023312	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023316	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023318	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023322	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023329	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023331	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023339	self	2023	11	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023348	self	2023	11	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023353	self	2023	11	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023356	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023357	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+2023373	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+2023378	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+203_18M2257	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+205_18M469	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+207_18M1651	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+208_21R768	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+209_21R605	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+211_19R718	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+212_21R611	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+213_17R940	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+214_18M1233	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+215_17R785	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+216_18M1480	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+217_21R791	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+218_21M435	self	2021	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2021	A2063G	R	2020-2024	contigs	3
+220_13199	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+222_16R063	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+224_13215	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+226_13M206	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+227_13175	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+228_13311	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+229_13212	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23007	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+230_16M191	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+23053	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23064	self	2023	11	China	China-Hunan	Asia	T1-2-EC1	T1-2	3-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23094	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23098	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23112	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+231_16M188	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+23116	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23119	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23129	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23136	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23146	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23152	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23155	self	2023	11	China	China-Shanxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23157	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23159	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23160	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23162	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23164	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23166	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23168	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+23171	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23181	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23184	self	2023	11	China	China-Shanghai	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23189549	self	2023	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.5	A2063G	R	2020-2024	contigs	3
+23198	self	2023	11	China	China-Guangdong	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23204	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23212	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+232_13220	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23217	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23220	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23221	self	2023	11	China	China-Gansu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23225	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23230	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23232	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23238	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23240	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23241	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23247	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23250	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23251	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23253	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23254	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23260	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23263	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23270	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23274	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23283	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23292	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23303	self	2023	11	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23307	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+233_13172	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23314	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23315	self	2023	11	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+23327	self	2023	11	China	China-Liaoning	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23347	self	2023	11	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23351	self	2023	11	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23362	self	2023	12	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23365	self	2023	12	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	-
+23371	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23375	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23377	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23379	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23407	self	2023	12	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+234_13214	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23414165	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23415	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23417	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23429	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23434	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23437	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23439	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23443	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23455	self	2023	12	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	-
+23456	self	2023	12	China	China-Guangxi	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	-
+23461	self	2023	12	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23476	self	2023	12	China	China-Jiangsu	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23478	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23492778	self	2023	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.5	A2063G	R	2020-2024	contigs	3
+23492966	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23493050	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	-
+23493423	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23494	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23497	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	-
+235_16R057	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+23527	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23529	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23531	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23532	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23535	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23578	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+236_13194	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23619	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+23624	self	2023	12	China	China-Henan	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.958	A2063G	R	2020-2024	contigs	3
+237_13208	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+238_13177	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+239_13210	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+23M510	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23M512	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23M513	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	complete	3
+23M554	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	complete	3
+23M636	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23R441	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+23R485	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+23R530	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23R533	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23R535	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	complete	3
+23R583	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	5-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23R600	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+23R655	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+23R656	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	!-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+240_13209	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+241_16M143	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+244_16M139	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+246_18M2316	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+247_16M122	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+248_18M2192	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+249_18M2211	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+250_16M246	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+251_13193	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+252_16M226	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+254_19R1068	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+256_19M641	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+259_19R169	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+260_13216	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+261_16M229	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+263_19M010	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+264_16M257	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+265_19M1318	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+266_18M2242	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+267_19M075	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+269_19M360	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+271_16R093	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+277_16R111	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+278_19M071	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+279_19M645	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+281_19R760	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+282_19M571	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+283_19M263	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+284_19R673	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+285_19M402	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+288_19R163	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+289_19M666	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+290_19M152	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+291_19M637	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+292_19M278	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+293_19M384	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+294_19M254	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+295_19M140	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+297_19M557	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+298_19R980	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+300_19M196	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+301_19M797	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+302_19M080	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+303_19M142	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+305_16M225	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+306_16M207	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+307_19M218	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+308_19M162	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+309_19M187	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+310_18M2348	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+311_19M256	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+312_19R1149	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+313_18M2216	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+314_18M2353	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+315_19R1194	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+318_16M1126	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+320_19M1143	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+322_18M2357	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+323_19M525	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+324_18M2229	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+325_19M1084	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+326_19R700	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+327_19R167	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+329_19R1008	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+330_19M783	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+332_19M632	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+333_16M128	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+334_18M2289	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+335_16M222	self	2016	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+336_18M2399	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	-
+337_19M315	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+338_17R236	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+340_19M1164	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+342_19M427	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+343_19M132	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+344_19R1338	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+347_18M949	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+348_18M1011	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+349_13191	self	2013	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+350_17M1190	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+351_18M1435	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+352_19M1189	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+353_18M2302	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+354_19M271	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+357_18M960	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	-
+358_18M2224	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+359_18M1748	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+360_18M1493	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+361_18M1472	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	complete	3
+362_17M1069	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+363_19M367	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+364_18M2126	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+365_18R1674	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+366_18M1911	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+367_18M2359	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+368_18M2030	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+369_18M2354	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+371_18R1913	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+372_18M2322	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+373_18M2072	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+375_18M1950	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+376_18R1843	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+377_19M1984	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+378_18M2073	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+380_18M2391	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+381_18M1957	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+382_18M2328	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+383_18M2364	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+384_18M2125	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+385_18M2390	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+386_19M1263	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+387_18M1992	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+388_18M1379	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+389_18M1491	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+391_17M1047	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+392_18M1686	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+393_18M1585	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+394_18M1409	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+395_18M1632	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+396_17R1180	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+397_18M1338	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+398_18M1381	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+399_18M1808	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+400_18M1637	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+403_17R1003	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+404_18M1382	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+405_18M1669	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+406_18M2392	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+407_18M1247	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+408_18M1474	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+409_18M1446	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+410_18M1426	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+411_18M1610	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+413_18M1315	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+415_18R1564	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+416_18M1396	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+417-1_18M1439	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+417-2_18M1466	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+418_18M1436	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+418_R417	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.625	A2063G	R	2020-2024	complete	3
+419-2_17M1063	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	-
+421_18M1437	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+421_23R428	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	5-5-7-2	2023.625	A2063G	R	2020-2024	complete	3
+422-1_18M1646	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+422-2_18M1682	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+423-1_18R1614	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+424-1_17M1127	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+424-2_18M1534	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+425-1_18M1470	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+425-2_18M1274	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+426-1_19R230	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+426-2_18M1650	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+427-2_18M1293	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+428_18M2055	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+428_2023XYX	self	2023	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.5	A2063G	R	2020-2024	complete	3
+429-1_18M1471	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+429-2_18M2373	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+429_23R430	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	complete	3
+430-1_18M1529	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+430-2_18M1862	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+430_D16447	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	complete	3
+431_18M2137	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+431-2_18M1842	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+431_23M469	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	complete	3
+432-1_17M1020	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+432_23M355	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	complete	3
+433-2_18M1486	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+433_23R414	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.625	A2063G	R	2020-2024	complete	3
+434_18M1716	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+434-2_17M1158	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+435_18M1727	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+435-2_18M1144	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+440_23R425	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.625	A2063G	R	2020-2024	contigs	-
+441_23R548	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+443_23R407	self	2023	8	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.625	A2063G	R	2020-2024	contigs	3
+444_23R443	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	3-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+445_D16535	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+447_23R447	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+448_23M494	self	2023	9	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.708	A2063G	R	2020-2024	contigs	3
+449_18M1828	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+450_18M1537	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+451_18M2107	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	complete	3
+453_18M1754	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+454_18M1525	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+455_18M1829	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+456_18M1596	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+457_19M1230	self	2019	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+459_18M1432	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+464_18M2355	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+466_17M1192	self	2017	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	3
+467_18R1763	self	2018	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+492434	self	2023	1	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.792	A2063G	R	2020-2024	contigs	3
+492831	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493229	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493289	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493339	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493478	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493600	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493686	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493708	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+493798	self	2023	11	China	China-Beijing	Asia	T1-2-EC1	T1-2	5-5-7-2	2023.875	A2063G	R	2020-2024	contigs	3
+DRR040054_PE	public	2012	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_000733995	public	2005	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2005	A2063G	R	1944-2009	complete	-
+GCA_001455605	public	2010	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-?-!-1	2010	A2063G	R	2010-2015	contigs	3
+GCA_001455625	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-!-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455635	public	2010	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-!-7-2	2010	A2063G	R	2010-2015	contigs	3
+GCA_001455675	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455685	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455695	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455735	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455745	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001455775	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_001509195	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	complete	3
+GCA_001558175	public	2012	NA	China	China-Beijing	Asia	T1-2-EC1	T1-2	4-4-7-2	2012	A2063G	R	2010-2015	complete	3
+GCA_009810575	public	2013	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	4-5-7-2	2013	A2063G	R	2010-2015	contigs	3
+GCA_009810735	public	2012	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	3
+GCA_009810795	public	2016	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+GCA_009810815	public	2016	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+GCA_009810835	public	2016	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-7-2	2016	A2063G	R	2016-2019	contigs	3
+GCA_009810955	public	2011	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-?-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_009811015	public	2011	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-7-2	2011	A2063G	R	2010-2015	contigs	-
+GCA_009811055	public	2011	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-?-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_009811095	public	2011	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-7-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_009811275	public	2011	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	?-5-?-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_009939765	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009939785	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009939805	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009939825	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009939845	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009939975	public	2016	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2016	A2063G	R	2016-2019	complete	3
+GCA_009940325	public	2015	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2015	A2063G	R	2010-2015	complete	3
+GCA_009940965	public	2015	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2015	A2063G	R	2010-2015	complete	3
+GCA_009941325	public	2015	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	!-5-7-2	2015	A2063G	R	2010-2015	complete	3
+GCA_009941705	public	2015	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	!-5-7-2	2015	A2063G	R	2010-2015	complete	3
+GCA_009942395	public	2012	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	complete	3
+GCA_009942655	public	2012	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	complete	3
+GCA_009943805	public	2011	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	complete	3
+GCA_009944335	public	2011	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	complete	3
+GCA_009946845	public	2010	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2010	A2063G	R	2010-2015	complete	3
+GCA_009947985	public	2010	NA	South Korea	South Korea	Asia	T1-2-EC1	T1-2	4-5-7-2	2010	A2063G	R	2010-2015	complete	3
+GCA_030159455	public	2020	NA	Japan	Japan	Asia	T1-2-EC1	T1-2	4-5-7-2	2020	A2063G	R	2020-2024	contigs	3
+GCA_030923165	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923225	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923285	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923305	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923325	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923395	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923415	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923495	public	2018	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+GCA_030923515	public	2018	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+GCA_030923535	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923555	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923575	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923695	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923755	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923795	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923825	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923835	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030923875	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924015	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924025	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924065	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	!-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924135	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924155	public	2020	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2020	A2063G	R	2020-2024	contigs	3
+GCA_030924175	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924195	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924255	public	2020	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2020	A2063G	R	2020-2024	contigs	3
+GCA_030924265	public	2020	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2020	A2063G	R	2020-2024	contigs	3
+GCA_030924335	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924355	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924395	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924405	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924455	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924475	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924505	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924595	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924615	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924635	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	-
+GCA_030924675	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924715	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924755	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924775	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924795	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924815	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924825	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924875	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924895	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924935	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030924995	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925035	public	2018	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+GCA_030925055	public	2018	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+GCA_030925175	public	2018	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	3
+GCA_030925215	public	2020	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2020	A2063G	R	2020-2024	contigs	3
+GCA_030925245	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925295	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925315	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925335	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925355	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925375	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030925385	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+GCA_030928045	public	2019	NA	China	China (Taiwan)	Asia	T1-2-EC1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+047_19M1103	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	30
+052_19M1129	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	30
+078_19M1375	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	3
+255_17R232	self	2017	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2017	A2063G	R	2016-2019	contigs	30
+341_19M382	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	30
+345_19M153	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	30
+346_19R423	self	2019	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2019	A2063G	R	2016-2019	contigs	30
+412_18M1170	self	2018	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	30
+463_18M1923	self	2018	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	2018	A2063G	R	2016-2019	contigs	30
+DRR040043_PE	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-?-?-?	2008	A2063G	R	1944-2009	contigs	3
+DRR040044_PE	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-?-2	2008	A2063G	R	1944-2009	contigs	3
+DRR040045_PE	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-4-?-2	2008	NA	S	1944-2009	contigs	19
+DRR040046_PE	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2008	NA	S	1944-2009	contigs	3
+DRR040047_PE	public	2009	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2009	A2063G	R	1944-2009	contigs	3
+DRR040048_PE	public	2010	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-!-7-2	2010	A2063G	R	2010-2015	contigs	3
+DRR040050_PE	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-4-?-?	2011	NA	S	2010-2015	contigs	19
+DRR040051_PE	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	contigs	3
+DRR040052_PE	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	contigs	3
+DRR040053_PE	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	3
+DRR040056_PE	public	1984	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	1984	NA	S	1944-2009	contigs	3
+DRR040058_PE	public	1987	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-?-?	1987	NA	S	1944-2009	contigs	3
+ERR974265_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+ERR974267_PE	public	1996	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1996	NA	S	1944-2009	contigs	3
+ERR974269_PE	public	1983	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1983	NA	S	1944-2009	contigs	9
+ERR974273_PE	public	1983	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1983	NA	S	1944-2009	contigs	3
+ERR974276_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+ERR974277_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+ERR974278_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+ERR974283_PE	public	1983	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1983	NA	S	1944-2009	contigs	3
+ERR974288_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+ERR974294_PE	public	1982	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	1982	NA	S	1944-2009	contigs	3
+GCA_000319675	public	NA	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	NA	NA	S	NA	complete	3
+GCA_001272735	public	2006	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2006	NA	S	1944-2009	complete	20
+GCA_001272755	public	2009	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2009	A2063G	R	1944-2009	complete	20
+GCA_001272775	public	2009	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2009	NA	S	1944-2009	complete	20
+GCA_001272795	public	1985	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	1985	NA	S	1944-2009	complete	-
+GCA_001272815	public	1985	NA	China	China-Beijing	Asia	T1-2-PRE1	T1-2	4-5-7-2	1985	NA	S	1944-2009	complete	-
+GCA_001296485	public	1999	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	1999	NA	S	1944-2009	contigs	20
+GCA_001296505	public	1996	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	1996	NA	S	1944-2009	contigs	3
+GCA_001296585	public	2005	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2005	A2064G	R	1944-2009	contigs	3
+GCA_001296665	public	1993	NA	Germany	Germany	Europe	T1-2-PRE1	T1-2	4-5-7-2	1993	NA	S	1944-2009	contigs	3
+GCA_001296705	public	2011	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	20
+GCA_001296725	public	2011	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	3
+GCA_001296735	public	2011	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_001296815	public	2005	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2005	NA	S	1944-2009	contigs	3
+GCA_001296885	public	2011	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	3
+GCA_001296895	public	2011	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	3
+GCA_001296905	public	1979	NA	France	France	Europe	T1-2-PRE1	T1-2	4-5-7-2	1979	NA	S	1944-2009	contigs	3
+GCA_001455795	public	2012	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	30
+GCA_002127985	public	1988	NA	Denmark	Denmark	Europe	T1-2-PRE1	T1-2	4-5-7-2	1988	A2063G	R	1944-2009	complete	19
+GCA_002128045	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	NA	S	2010-2015	complete	3
+GCA_002128065	public	2010	NA	Egypt	Egypt	Africa	T1-2-PRE1	T1-2	4-5-7-2	2010	NA	S	2010-2015	complete	20
+GCA_002128145	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-6-7-2	2012	NA	S	2010-2015	complete	20
+GCA_002563345	public	2013	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2013	NA	S	2010-2015	contigs	3
+GCA_002563415	public	1998	NA	Kenya	Kenya	Africa	T1-2-PRE1	T1-2	4-5-7-2	1998	NA	S	1944-2009	contigs	3
+GCA_002563435	public	2010	NA	Kenya	Kenya	Africa	T1-2-PRE1	T1-2	4-5-7-2	2010	NA	S	2010-2015	contigs	3
+GCA_002563515	public	2010	NA	Guatemala	Guatemala	Americas	T1-2-PRE1	T1-2	4-5-7-2	2010	NA	S	2010-2015	contigs	3
+GCA_009810095	public	1989	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	1989	NA	S	1944-2009	contigs	3
+GCA_009810115	public	1992	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-2	1992	NA	S	1944-2009	contigs	3
+GCA_009810235	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-2	2011	A2063T	R	2010-2015	contigs	3
+GCA_009810295	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2008	NA	S	1944-2009	contigs	3
+GCA_009810355	public	1983	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-2	1983	NA	S	1944-2009	contigs	3
+GCA_009810395	public	1985	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	1985	NA	S	1944-2009	contigs	3
+GCA_009810435	public	1988	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	1988	NA	S	1944-2009	contigs	3
+GCA_009810455	public	1988	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-1	1988	NA	S	1944-2009	contigs	3
+GCA_009810475	public	1990	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	1990	NA	S	1944-2009	contigs	3
+GCA_009810595	public	2008	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2008	NA	S	1944-2009	contigs	3
+GCA_009810695	public	2012	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063T	R	2010-2015	contigs	3
+GCA_009810755	public	2012	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-?-2	2012	A2063T	R	2010-2015	contigs	3
+GCA_009810915	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-?-!-2	2011	A2063G	R	2010-2015	contigs	3
+GCA_009810975	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-?-?	2011	NA	S	2010-2015	contigs	3
+GCA_009811135	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-2	2011	A2063G	R	2010-2015	contigs	30
+GCA_009811255	public	2011	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	?-5-7-2	2011	A2064C	R	2010-2015	contigs	3
+GCA_009943205	public	2011	NA	South Korea	South Korea	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	complete	3
+GCA_009944075	public	2011	NA	South Korea	South Korea	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	complete	3
+GCA_009945535	public	2011	NA	South Korea	South Korea	Asia	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	complete	3
+GCA_009946285	public	2010	NA	South Korea	South Korea	Asia	T1-2-PRE1	T1-2	4-5-7-2	2010	NA	S	2010-2015	complete	3
+SRR2598252_SE	public	1994	NA	France	France	Europe	T1-2-PRE1	T1-2	4-?-?-2	1994	NA	S	1944-2009	contigs	20
+SRR2598318_SE	public	2005	NA	France	France	Europe	T1-2-PRE1	T1-2	4-?-?-2	2005	A2064G	R	1944-2009	contigs	3
+SRR2598321_SE	public	2007	NA	France	France	Europe	T1-2-PRE1	T1-2	4-?-?-2	2007	NA	S	1944-2009	contigs	3
+SRR2598323_SE	public	1995	NA	Spain	Spain	Europe	T1-2-PRE1	T1-2	4-?-?-2	1995	NA	S	1944-2009	contigs	3
+SRR2598326_SE	public	2003	NA	Japan	Japan	Asia	T1-2-PRE1	T1-2	4-?-?-2	2003	A2063G	R	1944-2009	contigs	19
+SRR3924583_PE	public	2013	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2013	NA	S	2010-2015	contigs	3
+SRR3924584_PE	public	2011	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2011	A2063G	R	2010-2015	contigs	-
+SRR3924586_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	20
+SRR3924594_PE	public	2011	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	20
+SRR3924615_PE	public	2007	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2007	NA	S	1944-2009	contigs	3
+SRR3924618_PE	public	2007	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2007	A2064G	R	1944-2009	contigs	3
+SRR3924621_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	NA	S	2010-2015	contigs	20
+SRR3924627_PE	public	2010	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2010	A2063G	R	2010-2015	contigs	20
+SRR3924630_PE	public	2013	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2013	NA	S	2010-2015	contigs	3
+SRR3924633_PE	public	2013	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2013	NA	S	2010-2015	contigs	3
+SRR3924636_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	20
+SRR3924638_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	20
+SRR3924639_PE	public	1992	NA	Canada	Canada	Americas	T1-2-PRE1	T1-2	4-5-7-2	1992	NA	S	1944-2009	contigs	3
+SRR3924640_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	NA	S	2010-2015	contigs	20
+SRR3924642_PE	public	2011	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	20
+SRR3924644_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	A2063G	R	2010-2015	contigs	20
+SRR3924645_PE	public	2011	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2011	NA	S	2010-2015	contigs	20
+SRR3924646_PE	public	2012	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2012	NA	S	2010-2015	contigs	20
+SRR3924648_PE	public	2010	NA	Guatemala	Guatemala	Americas	T1-2-PRE1	T1-2	4-6-7-2	2010	NA	S	2010-2015	contigs	-
+SRR3924649_PE	public	2010	NA	United States	United States	Americas	T1-2-PRE1	T1-2	4-5-7-2	2010	A2063G	R	2010-2015	contigs	20
+SRR4023035_SE	public	2010	NA	NA	NA	NA	T1-2-PRE1	T1-2	4-?-?-2	2010	NA	S	2010-2015	contigs	20
+SRR4023037_SE	public	2011	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2011	NA	S	2010-2015	contigs	20
+SRR4023038_SE	public	2010	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2010	NA	S	2010-2015	contigs	3
+SRR4023039_SE	public	2010	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2010	NA	S	2010-2015	contigs	3
+SRR4023041_SE	public	NA	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	NA	NA	S	NA	contigs	3
+SRR4023042_SE	public	NA	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	NA	NA	S	NA	contigs	3
+SRR4023043_SE	public	2011	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2011	NA	S	2010-2015	contigs	20
+SRR4023045_SE	public	2009	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2009	NA	S	1944-2009	contigs	19
+SRR4023046_SE	public	2010	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2010	NA	S	2010-2015	contigs	-
+SRR4023049_SE	public	2009	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2009	A2063G	R	1944-2009	contigs	-
+SRR4023050_SE	public	NA	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	NA	NA	S	NA	contigs	3
+SRR4023051_SE	public	2011	NA	Netherlands	Netherlands	Europe	T1-2-PRE1	T1-2	4-?-?-2	2011	NA	S	2010-2015	contigs	3
+035_19M515	self	2019	NA	China	China-Beijing	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+2023199	self	2023	11	China	China-Guangdong	Asia	T1-3	T1-3	4-5-7-3	2023.875	A2063G	R	2020-2024	contigs	17
+GCA_009945165	public	2011	NA	South Korea	South Korea	Asia	T1-3	T1-3	4-5-7-3	2011	NA	S	2010-2015	complete	17
+GCA_009947575	public	2010	NA	South Korea	South Korea	Asia	T1-3	T1-3	4-5-7-3	2010	NA	S	2010-2015	complete	17
+GCA_030159375	public	2020	NA	Japan	Japan	Asia	T1-3	T1-3	4-5-7-3	2020	NA	S	2020-2024	contigs	-
+GCA_030159435	public	2020	NA	Japan	Japan	Asia	T1-3	T1-3	4-5-7-?	2020	NA	S	2020-2024	contigs	17
+GCA_030923185	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	NA	S	2016-2019	contigs	17
+GCA_030923245	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030923315	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030923335	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	NA	S	2016-2019	contigs	17
+GCA_030923435	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	NA	S	2016-2019	contigs	17
+GCA_030923475	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	NA	S	2016-2019	contigs	17
+GCA_030923585	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	NA	S	2016-2019	contigs	17
+GCA_030923675	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030923885	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030924095	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030924105	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	NA	S	2016-2019	contigs	17
+GCA_030924205	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030924235	public	2020	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2020	A2063T	R	2020-2024	contigs	17
+GCA_030924275	public	2020	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2020	A2063T	R	2020-2024	contigs	17
+GCA_030924375	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030924435	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030924495	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030924535	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030924575	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030924695	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030924705	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030924915	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	NA	S	2016-2019	contigs	17
+GCA_030924945	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030925015	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063T	R	2016-2019	contigs	17
+GCA_030925085	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	A2063G	R	2016-2019	contigs	17
+GCA_030925115	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	A2063G	R	2016-2019	contigs	17
+GCA_030925135	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	A2063G	R	2016-2019	contigs	17
+GCA_030925155	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	A2063G	R	2016-2019	contigs	17
+GCA_030925165	public	2018	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2018	A2063G	R	2016-2019	contigs	17
+GCA_030925235	public	2019	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2019	A2063G	R	2016-2019	contigs	17
+GCA_030925255	public	2020	NA	China	China (Taiwan)	Asia	T1-3	T1-3	4-5-7-3	2020	A2063G	R	2020-2024	contigs	17
+SRR3924626_PE	public	2010	NA	United States	United States	Americas	T1-3	T1-3	4-5-7-3	2010	NA	S	2010-2015	contigs	17
+SRR3924637_PE	public	2011	NA	United States	United States	Americas	T1-3	T1-3	4-5-7-3	2011	NA	S	2010-2015	contigs	17
+SRR3924641_PE	public	2012	NA	United States	United States	Americas	T1-3	T1-3	!-5-7-3	2012	NA	S	2010-2015	contigs	17
+SRR3924643_PE	public	2012	NA	United States	United States	Americas	T1-3	T1-3	4-5-7-3	2012	NA	S	2010-2015	contigs	17
+ERR974260_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	4
+ERR974261_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	4
+ERR974263_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	4
+ERR974264_PE	public	1978	NA	NA	NA	NA	T2-1	T2-1	3-4-6-2	1978	NA	S	1944-2009	contigs	2
+ERR974270_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1983	NA	S	1944-2009	contigs	2
+ERR974271_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1983	NA	S	1944-2009	contigs	6
+ERR974272_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	!-6-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974274_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974275_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	1983	NA	S	1944-2009	contigs	2
+ERR974279_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1983	NA	S	1944-2009	contigs	2
+ERR974280_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1983	NA	S	1944-2009	contigs	8
+ERR974281_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	4
+ERR974282_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	2
+ERR974284_PE	public	1979	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1979	NA	S	1944-2009	contigs	7
+ERR974285_PE	public	1981	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	contigs	4
+ERR974286_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974287_PE	public	1976	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1976	NA	S	1944-2009	contigs	2
+ERR974289_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974290_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	!-6-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974291_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1983	NA	S	1944-2009	contigs	2
+ERR974292_PE	public	1982	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1982	NA	S	1944-2009	contigs	2
+ERR974293_PE	public	1983	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	1983	NA	S	1944-2009	contigs	2
+GCA_000143945	public	NA	NA	NA	NA	NA	T2-1	T2-1	3-5-6-2	NA	NA	S	NA	complete	2
+GCA_000319655	public	1980	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1980	NA	S	1944-2009	complete	2
+GCA_000387745	public	1994	NA	United States	United States	Americas	T2-1	T2-1	3-5-6-2	1994	NA	S	1944-2009	complete	-
+GCA_001272715	public	1999	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1999	NA	S	1944-2009	complete	2
+GCA_001272835	public	1954	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1954	NA	S	1944-2009	complete	2
+GCA_001272855	public	1981	NA	United Kingdom	United Kingdom	Europe	T2-1	T2-1	3-6-6-2	1981	NA	S	1944-2009	complete	4
+GCA_001272875	public	1982	NA	United Kingdom	United Kingdom	Europe	T2-1	T2-1	3-6-6-2	1982	NA	S	1944-2009	complete	-
+GCA_001272895	public	1982	NA	United Kingdom	United Kingdom	Europe	T2-1	T2-1	3-5-6-2	1982	NA	S	1944-2009	complete	2
+GCA_001272915	public	1944	NA	United States	United States	Americas	T2-1	T2-1	3-5-6-2	1944	NA	S	1944-2009	complete	2
+GCA_001296515	public	2001	NA	France	France	Europe	T2-1	T2-1	3-6-?-2	2001	NA	S	1944-2009	contigs	-
+GCA_001296525	public	1999	NA	Spain	Spain	Europe	T2-1	T2-1	3-?-6-2	1999	NA	S	1944-2009	contigs	2
+GCA_001296605	public	2003	NA	Japan	Japan	Asia	T2-1	T2-1	!-6-?-2	2003	NA	S	1944-2009	contigs	-
+GCA_001296625	public	2008	NA	France	France	Europe	T2-1	T2-1	3-6-?-2	2008	NA	S	1944-2009	contigs	2
+GCA_001296785	public	2011	NA	France	France	Europe	T2-1	T2-1	3-?-6-2	2011	NA	S	2010-2015	contigs	2
+GCA_001296805	public	1967	NA	Denmark	Denmark	Europe	T2-1	T2-1	!-6-?-2	1967	NA	S	1944-2009	contigs	2
+GCA_001296825	public	2003	NA	Japan	Japan	Asia	T2-1	T2-1	!-?-6-2	2003	A2063C	R	1944-2009	contigs	-
+GCA_001901705	public	1954	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1954	NA	S	1944-2009	complete	2
+GCA_002128085	public	2007	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	2007	NA	S	1944-2009	complete	2
+GCA_002128105	public	2000	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	2000	NA	S	1944-2009	complete	2
+GCA_002128165	public	2013	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	2013	NA	S	2010-2015	complete	2
+GCA_002128185	public	2010	NA	Kenya	Kenya	Africa	T2-1	T2-1	3-6-6-2	2010	NA	S	2010-2015	complete	16
+GCA_002128205	public	1999	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1999	A2063G	R	1944-2009	complete	-
+GCA_002128235	public	1999	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1999	NA	S	1944-2009	complete	2
+GCA_002128285	public	2012	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	2012	NA	S	2010-2015	complete	2
+GCA_002355695	public	2012	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	2012	NA	S	2010-2015	complete	-
+GCA_002563355	public	NA	NA	Denmark	Denmark	Europe	T2-1	T2-1	3-5-6-2	NA	NA	S	NA	contigs	2
+GCA_002563365	public	1999	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1999	NA	S	1944-2009	contigs	-
+GCA_002563545	public	1954	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1954	NA	S	1944-2009	contigs	2
+GCA_009809995	public	1976	NA	Japan	Japan	Asia	T2-1	T2-1	3-!-6-2	1976	NA	S	1944-2009	contigs	7
+GCA_009810015	public	1980	NA	Japan	Japan	Asia	T2-1	T2-1	!-6-6-2	1980	NA	S	1944-2009	contigs	7
+GCA_009810035	public	1983	NA	Japan	Japan	Asia	T2-1	T2-1	!-6-6-2	1983	NA	S	1944-2009	contigs	7
+GCA_009810055	public	1984	NA	Japan	Japan	Asia	T2-1	T2-1	!-5-6-2	1984	NA	S	1944-2009	contigs	7
+GCA_009810135	public	1992	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	1992	NA	S	1944-2009	contigs	7
+GCA_009810195	public	2013	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	2013	NA	S	2010-2015	contigs	16
+GCA_009810315	public	1979	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	1979	NA	S	1944-2009	contigs	7
+GCA_009810335	public	1980	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	1980	NA	S	1944-2009	contigs	7
+GCA_009810375	public	1985	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	1985	NA	S	1944-2009	contigs	-
+GCA_009810415	public	1987	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	1987	NA	S	1944-2009	contigs	7
+GCA_009810555	public	1994	NA	Japan	Japan	Asia	T2-1	T2-1	!-6-6-2	1994	NA	S	1944-2009	contigs	7
+GCA_009810895	public	2011	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	2011	NA	S	2010-2015	contigs	7
+GCA_009811155	public	2011	NA	Japan	Japan	Asia	T2-1	T2-1	?-?-6-?	2011	NA	S	2010-2015	contigs	7
+GCA_009811215	public	2011	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	2011	NA	S	2010-2015	contigs	7
+GCA_009811235	public	2011	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-?	2011	A2063G	R	2010-2015	contigs	7
+GCA_009811295	public	2011	NA	Japan	Japan	Asia	T2-1	T2-1	?-6-6-2	2011	NA	S	2010-2015	contigs	7
+GCA_030159355	public	1980	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	1980	NA	S	1944-2009	contigs	8
+GCA_030159395	public	2020	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	2020	A2063G	R	2020-2024	contigs	2
+GCA_030159415	public	2020	NA	Japan	Japan	Asia	T2-1	T2-1	3-6-6-2	2020	NA	S	2020-2024	contigs	7
+GCA_030924925	public	2019	NA	China	China (Taiwan)	Asia	T2-1	T2-1	3-6-6-2	2019	NA	S	2016-2019	contigs	2
+GCA_900660465	public	1967	NA	NA	NA	NA	T2-1	T2-1	3-6-6-2	1967	NA	S	1944-2009	contigs	2
+SRR2598968_SE	public	1954	NA	United States	United States	Americas	T2-1	T2-1	3-?-?-1	1954	NA	S	1944-2009	contigs	2
+SRR3924595_PE	public	2012	NA	South Africa	South Africa	Africa	T2-1	T2-1	3-6-6-2	2012	NA	S	2010-2015	contigs	2
+SRR3924601_PE	public	1986	NA	United States	United States	Americas	T2-1	T2-1	!-6-6-2	1986	NA	S	1944-2009	contigs	-
+SRR3924604_PE	public	1988	NA	United States	United States	Americas	T2-1	T2-1	!-6-6-2	1988	NA	S	1944-2009	contigs	-
+SRR3924607_PE	public	1993	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1993	NA	S	1944-2009	contigs	2
+SRR3924611_PE	public	1994	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1994	NA	S	1944-2009	contigs	-
+SRR3924613_PE	public	1994	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1994	NA	S	1944-2009	contigs	-
+SRR3924614_PE	public	1996	NA	United States	United States	Americas	T2-1	T2-1	3-5-6-2	1996	NA	S	1944-2009	contigs	-
+SRR3924616_PE	public	1994	NA	United States	United States	Americas	T2-1	T2-1	3-5-6-2	1994	NA	S	1944-2009	contigs	-
+SRR3924619_PE	public	1994	NA	United States	United States	Americas	T2-1	T2-1	3-5-6-2	1994	NA	S	1944-2009	contigs	-
+SRR3924620_PE	public	1974	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	1974	NA	S	1944-2009	contigs	2
+SRR3924634_PE	public	2013	NA	United States	United States	Americas	T2-1	T2-1	3-6-6-2	2013	NA	S	2010-2015	contigs	2
+SRR4023033_SE	public	NA	NA	NA	NA	NA	T2-1	T2-1	3-?-?-2	NA	NA	S	NA	contigs	2
+SRR4023040_SE	public	2011	NA	Netherlands	Netherlands	Europe	T2-1	T2-1	3-?-?-2	2011	NA	S	2010-2015	contigs	2
+SRR4023047_SE	public	2011	NA	Netherlands	Netherlands	Europe	T2-1	T2-1	3-?-?-2	2011	NA	S	2010-2015	contigs	2
+008_18M1176	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+027_18M2335	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	-
+028_19M072	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+029_19M232	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-?-2	2019	A2063G	R	2016-2019	contigs	14
+031_19M362	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+033_19M509	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+048_19M1118	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+057_19M1184	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+061_19M1242	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+068_19M1346	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+071_19R1221	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+074_19R1236	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+075_19M1361	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-!-6-2	2019	A2063G	R	2016-2019	contigs	14
+083_19M1392	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+087_19R1363	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+088_19R1367	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+089_19R1376	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+091_19R1383	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+106_22R429	self	2022	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2022	A2063G	R	2020-2024	contigs	14
+110_D16338	self	2023	8	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.625	A2063G	R	2020-2024	contigs	14
+113_22R491	self	2022	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2022	A2063G	R	2020-2024	contigs	14
+114_22M356	self	2022	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2022	A2063G	R	2020-2024	contigs	14
+115_22SD007	self	2022	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2022	A2063G	R	2020-2024	contigs	14
+116_R466	self	2022	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2022	A2063G	R	2020-2024	contigs	14
+126_M1334	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+127_M1348	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+135_M1108	self	NA	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	NA	A2063G	R	NA	contigs	14
+18M1538	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	complete	14
+191_21R755	self	2021	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2021	A2063G	R	2020-2024	contigs	14
+196_21R827	self	2021	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2021	A2063G	R	2020-2024	contigs	14
+197_21R754	self	2021	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2021	A2063G	R	2020-2024	contigs	14
+201_21R828	self	2021	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2021	A2063G	R	2020-2024	contigs	14
+2023086	self	2023	11	China	China-Shanxi	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023096	self	2023	11	China	China-Shanghai	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+2023123	self	2023	11	China	China-Jiangsu	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023140	self	2023	11	China	China-Shanxi	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+2023142	self	2023	11	China	China-Shanxi	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+2023165	self	2023	11	China	China-Liaoning	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023179	self	2023	11	China	China-Heilongjiang	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	-
+2023180	self	2023	11	China	China-Heilongjiang	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023249	self	2023	11	China	China-Liaoning	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023256	self	2023	11	China	China-Liaoning	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+2023259	self	2023	11	China	China-Liaoning	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+2023326	self	2023	11	China	China-Liaoning	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+2023336	self	2023	11	China	China-Henan	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	contigs	14
+204_21R805	self	2021	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2021	A2063G	R	2020-2024	contigs	14
+206_19M1138	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+210_18M1088	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+219_18M1024	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+221_16R056	self	2016	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2016	A2063G	R	2016-2019	contigs	14
+225_18M2240	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+23085	self	2023	11	China	China-Shanxi	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+23151	self	2023	11	China	China-Shanxi	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+23234	self	2023	11	China	China-Jiangsu	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+23352	self	2023	11	China	China-Henan	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.875	A2063G	R	2020-2024	complete	14
+23492942	self	2023	1	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.792	A2063G	R	2020-2024	contigs	14
+23R410	self	2023	8	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.625	A2063G	R	2020-2024	contigs	14
+242_19M163	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+253_18M2335	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	complete	14
+270_19M664	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	complete	14
+273_19R290	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+274_19M652	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	complete	14
+275_23R298	self	2023	7	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.542	A2063G	R	2020-2024	complete	14
+276_19M457	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+280_19M1193	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+286_19M457	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	complete	14
+287_19M098	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+296_19M1378	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-!-6-2	2019	A2063G	R	2016-2019	contigs	14
+299_19M420	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+304_18M2350	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+316_19M741	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+319_19M453	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	complete	14
+328_18M2258	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+355_18M1630	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	complete	14
+356_18M2142	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+370_19R967	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+374_19M1064	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+390_18M1656	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+401_18M1268	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	complete	14
+414_18M509	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+419-1_18M1255	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+420-1_18M386	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+420-2_17M1024	self	2017	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2017	A2063G	R	2016-2019	contigs	14
+423-2_18M1311	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+427-1_18M1795	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+433_18R1661	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+438_23R448	self	2023	9	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.708	A2063G	R	2020-2024	contigs	14
+452_18M2083	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+460_18R1916	self	2018	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+465_19M1182	self	2019	NA	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+492187	self	2023	1	China	China-Beijing	Asia	T2-2-EC2	T2-2	3-5-6-2	2023.792	A2063G	R	2020-2024	complete	14
+GCA_030924315	public	2020	NA	China	China (Taiwan)	Asia	T2-2-EC2	T2-2	3-5-6-2	2020	A2063G	R	2020-2024	contigs	14
+GCA_030924655	public	2019	NA	China	China (Taiwan)	Asia	T2-2-EC2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+245_19M454	self	2019	NA	China	China-Beijing	Asia	T2-2-PRE2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+272_19M669	self	2019	NA	China	China-Beijing	Asia	T2-2-PRE2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+331_18M2315	self	2018	NA	China	China-Beijing	Asia	T2-2-PRE2	T2-2	3-5-6-2	2018	A2063G	R	2016-2019	contigs	14
+462_19M260	self	2019	NA	China	China-Beijing	Asia	T2-2-PRE2	T2-2	3-5-6-2	2019	A2063G	R	2016-2019	contigs	14
+DRR040049_PE	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-?-2	2011	NA	S	2010-2015	contigs	14
+GCA_000283755	public	NA	NA	NA	NA	NA	T2-2-PRE2	T2-2	3-5-6-2	NA	NA	S	NA	complete	2
+GCA_001296565	public	2005	NA	France	France	Europe	T2-2-PRE2	T2-2	3-?-6-2	2005	NA	S	1944-2009	contigs	14
+GCA_001296685	public	1991	NA	Germany	Germany	Europe	T2-2-PRE2	T2-2	3-?-6-2	1991	NA	S	1944-2009	contigs	2
+GCA_001296765	public	2011	NA	France	France	Europe	T2-2-PRE2	T2-2	3-5-?-2	2011	NA	S	2010-2015	contigs	-
+GCA_002128005	public	2009	NA	Egypt	Egypt	Africa	T2-2-PRE2	T2-2	3-5-6-2	2009	NA	S	1944-2009	complete	-
+GCA_002128125	public	2014	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2014	NA	S	2010-2015	complete	14
+GCA_002128265	public	1995	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	1995	NA	S	1944-2009	complete	15
+GCA_002355715	public	2012	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2012	NA	S	2010-2015	complete	14
+GCA_009810155	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810175	public	2013	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2013	NA	S	2010-2015	contigs	14
+GCA_009810255	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810275	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810495	public	1991	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	1991	NA	S	1944-2009	contigs	2
+GCA_009810515	public	1991	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	1991	NA	S	1944-2009	contigs	2
+GCA_009810535	public	1993	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	1993	NA	S	1944-2009	contigs	2
+GCA_009810615	public	2009	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2009	NA	S	1944-2009	contigs	14
+GCA_009810635	public	2010	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2010	NA	S	2010-2015	contigs	14
+GCA_009810655	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810675	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810715	public	2012	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	3-5-6-2	2012	NA	S	2010-2015	contigs	-
+GCA_009810855	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810875	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810935	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009810995	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-?-?-2	2011	A2063G	R	2010-2015	contigs	14
+GCA_009811035	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-!-?-2	2011	NA	S	2010-2015	contigs	-
+GCA_009811075	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-6-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009811115	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009811175	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	A2063G	R	2010-2015	contigs	14
+GCA_009811195	public	2011	NA	Japan	Japan	Asia	T2-2-PRE2	T2-2	?-5-6-2	2011	NA	S	2010-2015	contigs	14
+GCA_009939745	public	2016	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2016	NA	S	2016-2019	complete	14
+GCA_009942155	public	2014	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2014	NA	S	2010-2015	complete	14
+GCA_009942915	public	2011	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	complete	33
+GCA_009943505	public	2011	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	A2063G	R	2010-2015	complete	14
+GCA_009944725	public	2011	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	complete	14
+GCA_009945865	public	2010	NA	South Korea	South Korea	Asia	T2-2-PRE2	T2-2	3-5-6-2	2010	NA	S	2010-2015	complete	14
+GCA_030923175	public	2019	NA	China	China (Taiwan)	Asia	T2-2-PRE2	T2-2	3-5-6-2	2019	NA	S	2016-2019	contigs	14
+GCA_030923455	public	2018	NA	China	China (Taiwan)	Asia	T2-2-PRE2	T2-2	3-5-6-2	2018	NA	S	2016-2019	contigs	14
+GCA_030924545	public	2019	NA	China	China (Taiwan)	Asia	T2-2-PRE2	T2-2	3-!-6-2	2019	NA	S	2016-2019	contigs	14
+GCA_030924835	public	2019	NA	China	China (Taiwan)	Asia	T2-2-PRE2	T2-2	3-5-6-2	2019	NA	S	2016-2019	contigs	14
+GCA_030925075	public	2018	NA	China	China (Taiwan)	Asia	T2-2-PRE2	T2-2	3-5-6-2	2018	NA	S	2016-2019	contigs	14
+SRR2598329_SE	public	NA	NA	Germany	Germany	Europe	T2-2-PRE2	T2-2	3-?-?-2	NA	NA	S	NA	contigs	2
+SRR2598967_SE	public	2005	NA	France	France	Europe	T2-2-PRE2	T2-2	3-?-?-2	2005	NA	S	1944-2009	contigs	14
+SRR3924603_PE	public	2011	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+SRR3924612_PE	public	2007	NA	NA	NA	NA	T2-2-PRE2	T2-2	3-5-6-2	2007	NA	S	1944-2009	contigs	14
+SRR3924622_PE	public	2012	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2012	NA	S	2010-2015	contigs	14
+SRR3924623_PE	public	2011	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2011	NA	S	2010-2015	contigs	14
+SRR3924624_PE	public	2014	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2014	NA	S	2010-2015	contigs	14
+SRR3924625_PE	public	2014	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2014	NA	S	2010-2015	contigs	14
+SRR3924629_PE	public	2013	NA	United States	United States	Americas	T2-2-PRE2	T2-2	3-5-6-2	2013	NA	S	2010-2015	contigs	14
+SRR4023034_SE	public	2009	NA	NA	NA	NA	T2-2-PRE2	T2-2	3-?-?-2	2009	NA	S	1944-2009	contigs	14
+SRR4023036_SE	public	2010	NA	Netherlands	Netherlands	Europe	T2-2-PRE2	T2-2	3-?-?-2	2010	NA	S	2010-2015	contigs	14
+SRR4023044_SE	public	NA	NA	Germany	Germany	Europe	T2-2-PRE2	T2-2	3-?-?-2	NA	NA	S	NA	contigs	2
+SRR4023048_SE	public	2008	NA	NA	NA	NA	T2-2-PRE2	T2-2	3-?-?-2	2008	NA	S	1944-2009	contigs	14
+DRR040057_PE	public	1986	NA	Japan	Japan	Asia	Unassigned	Unassigned	?-?-?-2	1986	NA	S	1944-2009	contigs	3
+ERR974266_PE	public	1967	NA	NA	NA	NA	Unassigned	Unassigned	4-5-7-2	1967	NA	S	1944-2009	contigs	3
+ERR974268_PE	public	1968	NA	NA	NA	NA	Unassigned	Unassigned	4-5-7-2	1968	NA	S	1944-2009	contigs	5
+GCA_009810775	public	1985	NA	Japan	Japan	Asia	Unassigned	Unassigned	?-?-?-2	1985	NA	S	1944-2009	contigs	3
+DRR040055_PE	public	1976	NA	Japan	Japan	Asia	Unassigned	Unassigned	?-?-?-?	1976	NA	S	1944-2009	contigs	3
+GCA_009810075	public	1988	NA	Japan	Japan	Asia	Unassigned	Unassigned	?-?-?-?	1988	NA	S	1944-2009	contigs	-
